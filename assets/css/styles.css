@@ -189,6 +189,14 @@ textarea{
 .active .close-icon{
     display: block;
 }
+
+.dark-theme .theme-off{
+    display: none;
+}
+
+.dark-theme .theme-on{
+    display: block;
+ }
 /* !HERO STYLES*/
 
 /* !ABOUT ME STYLES */
