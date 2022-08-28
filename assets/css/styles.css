@@ -395,6 +395,10 @@ textarea{
     opacity: 1;
     transform: translateY(calc(-100% + -.5rem));
 }
+
+.about-me-img{
+    border-radius: 50%;
+  }
 /* !PORTFOLIO STYLES */
 .section-title-container{
     display: inline-block;
